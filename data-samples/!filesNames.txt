@@ -1,0 +1,13 @@
+../data-samples/20vertex_fullgraph.txt
+../data-samples/directed.txt
+../data-samples/disconnect.txt
+../data-samples/empty.txt
+../data-samples/ex11.txt
+../data-samples/filesNames.txt
+../data-samples/negative.txt
+../data-samples/odd.txt
+../data-samples/oddFull.txt
+../data-samples/oddFullLoop.txt
+../data-samples/oddLoop.txt
+../data-samples/onedirected.txt
+../data-samples/wrong.txt
